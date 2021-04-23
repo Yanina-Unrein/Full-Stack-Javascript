@@ -1,4 +1,4 @@
-<p align="left"><img href="readme_images/udemy" alt="logo_udemy"></p>
+<p><img href="readme_images/udemy" alt="logo_udemy"></p>
 <h3>Udemy</h1>
 <hr>
 <h1>Curso Full Stack JavaScript Developer</h1><br>
