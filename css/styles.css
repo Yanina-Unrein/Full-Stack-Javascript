@@ -1,0 +1,15 @@
+.action-menu{
+    padding: 40px 30px;
+}
+
+.action-menu h1{
+    margin-bottom: 20px;
+}
+
+.form-row{
+    padding: 20px 20px;
+}
+
+.form-row>.col{
+padding: inherit;
+}
